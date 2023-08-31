@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,docker,figma,gcp,git,github,mongodb,mysql,netlify,nodejs,postgres,postman,react,redux,tailwind,visualstudio,expressjs,npm,notion,slack)](https://skillicons.dev)
+
+
+<p align="center">
+  <a href="(https://skillicons.dev/icons?">
+    <img src="https://skillicons.dev/icons?i=js,html,css,aws,docker,figma,gcp,git,github,mongodb,mysql,netlify,nodejs,postgres,postman,react,redux,tailwind,visualstudio,expressjs,npm,notion,slack" />
+  </a>
+</p>
+
 
  ### 🔎 Check out my portfolio!
 
